@@ -1,0 +1,8 @@
+THE BOOK ARE ARRANGED SEPARATELY IN A COLOUMN AND ITS PRICE INFRONT OF IT"
+ NAME OF THE BOOK                PRICE(Rs)
+
+The girl in room 105    200.0
+Winter's Tale    300.0
+Two states    200.0
+Compiler Design    500.0
+Computer Organization    500.0
